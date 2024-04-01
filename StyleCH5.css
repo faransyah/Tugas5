@@ -1,5 +1,5 @@
 Body{
-    background-image: url(https://tse2.mm.bing.net/th?id=OIP.QpMsrFM4Xy5RXw1RDsZXzQHaEq&pid=Api&P=0&h=220);
+    background-color: pink;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -9,7 +9,7 @@ h1{
 
 }
 h2{
-    font-family: 'Lobster Two', cursive;
+    font-family: 'Roboto Slab', serif;
     letter-spacing: 1px;
             text-transform: uppercase;
 
