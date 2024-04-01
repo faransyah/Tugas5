@@ -1,9 +1,16 @@
 Body{
-    background-image: url(https://i.pinimg.com/736x/b1/83/5c/b1835c6acdc8a7919136e1847abaceac.jpg);
+    background-image: url(https://tse2.mm.bing.net/th?id=OIP.QpMsrFM4Xy5RXw1RDsZXzQHaEq&pid=Api&P=0&h=220);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
 }
 h1{
-    font-family: 'Great Vibes', cursive;
+    font-family: 'Roboto Slab', serif;
+
+}
+h2{
+    font-family: 'Lobster Two', cursive;
+    letter-spacing: 1px;
+            text-transform: uppercase;
+
 }
