@@ -1,5 +1,5 @@
 Body{
-    background-image: url(https://wallpapercave.com/wp/wp2911398.jpg);
+    background-image: url(https://i.pinimg.com/originals/d1/4d/a5/d14da53dc29929635443624bdda6ddd7.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -12,5 +12,11 @@ h2{
     font-family: 'Roboto Slab', serif;
     letter-spacing: 1px;
             text-transform: uppercase;
-
+            text-align: center;
+            border: 2px solid #2f00ff;
+            color: #361500;
+            box-shadow: 1px 1px 2px rgb(0, 68, 255);
+            border-radius: 10px;
+            padding: 3px 10px;
+            cursor: pointer;
 }
