@@ -1,11 +1,11 @@
-video.addEventLitster("click", function video(){
-    alert("imi video Cristiano");
+video.addEventListener("click", function() {
+    alert("Ini video Cristiano");
 });
 
-Audio.addEventLitster("click", function audio(){
-    alert("ini audio SIUUUUU");
+Audio.addEventListener("click", function() {
+    alert("Ini audio SIUUUUU");
 });
 
-gambar.addEventLitster("click", function gambar(){
-    alert("ini gambar GOAT")
-})
+gambar.addEventListener("click", function() {
+    alert("Ini gambar GOAT");
+});
